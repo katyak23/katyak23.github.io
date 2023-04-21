@@ -16,5 +16,9 @@ a {
 }
 
 th, td {
-  padding: 15px;
+text-align:center ;
+  padding: 1opx;
+}
+div {
+  column-gap: 40px;
 }
